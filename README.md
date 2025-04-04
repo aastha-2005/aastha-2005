@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **java,AI & ML**
 
-- 📫 How to reach me **aasthabhavsar10@outlook.com**
+- 📫 How to reach me ** bhavsaraastha1710@gmail.com**
 
 - ⚡ Fun fact **I m a kind person and enthusiastic to learn more**
 
