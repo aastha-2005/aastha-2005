@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aastha Bhavsar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **java,AI & ML**
+- 🌱 I’m currently learning **java | full stack development | cloud computing |**
 
 - 📫 How to reach me ** bhavsaraastha1710@gmail.com**
 
